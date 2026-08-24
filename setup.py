@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="WIB",
     version="1.0.0",
-    author="Shuang Jiang, Tao Le",  
+    author="Shuang Jiang, Qiya Ai and Tao Le",  
     description="Weak Interaction Barcode (WIB) for GROMACS trajectory analysis",
     packages=find_packages(),
     install_requires=[
